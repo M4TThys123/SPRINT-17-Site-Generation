@@ -4,9 +4,12 @@ Voor deze leertaak heb ik 2 sites statisch gegenereerd, in eerste instantie ben 
 
 ## Sprint 14: CMD Minor website `Svelte`
 Dit is een SvetleKit App voor de CMD Minor op basis van Prismic.io
+`localhost`
 
 ## Portfolio website `Svelte`
+link
 
 ## Nog een project `Vue.js`
+Work in progress...
 
 
